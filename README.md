@@ -3,4 +3,4 @@
 
 (A work in progress)
 
-see progress at http://natalialkb.github.io/glasgow-window-ochre.
+see progress at http://natalialkb.github.io/glasgow-window-pink.
